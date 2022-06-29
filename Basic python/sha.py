@@ -1,8 +1,5 @@
-print("my name is shamima yesmin i want to be a programer")
-print("hello everyone how are you all")
-print("hello wajiha my cute mummam i love a lot you are alwaya in my heart")
-print("my pipi wajiha what you need tell me choclete or chips?")
-print("good morning . have a  great day . i wish you all are stay happay and healthy")
+
+print("Good morning .Have a  great day . I wish you all stay happay and healthy")
 
 text = "hello world"
 print(text)
